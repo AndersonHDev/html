@@ -1,0 +1,40 @@
+body{
+  whidth: 95%;
+  margin: auto;
+  background: url(fundohd.jpg) center;
+color: red;
+  font-family: sans-serif;
+  line-height: 1.5
+}
+
+main{
+  background: #00000078;
+  padding: 5px 40;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.logo {
+  text-align: center;
+  margin: 0px;
+}
+.harley-name{
+  text-align: center;
+    margin: 0px;
+}
+.head-line{
+  text-align: center;
+    margin: 0px;
+}
+.funcionamento{
+  margin: 30px 0;
+  text-align: center;
+  whidth: 100%;
+}
+.funcionamento table{
+
+  background: #c0c0c087;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 0 auto;
+}
+//eu poderiater alinhado .logo,.harley etc e separado com virgula.
